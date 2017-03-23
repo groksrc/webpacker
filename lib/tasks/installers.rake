@@ -1,7 +1,7 @@
 INSTALLERS = {
-  "Angular": :angular,
-  "React": :react,
-  "Vue": :vue
+  "Angular" => :angular,
+  "React" => :react,
+  "Vue" => :vue
 }.freeze
 
 namespace :webpacker do
